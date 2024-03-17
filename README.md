@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 --------------------
 
-💻 My Journey: I've been coding for 15 years and have immersed myself in various technologies and frameworks to deliver exceptional user experiences. Whether it's crafting intuitive front-end interfaces or architecting scalable back-end systems, I thrive on turning ideas into reality. 
+💻 My Journey: I've been coding for over 15 years and have immersed myself in various technologies and frameworks to deliver exceptional user experiences. Whether it's crafting intuitive front-end interfaces or architecting scalable back-end systems, I thrive on turning ideas into reality. 
 
 🌐 Tech Stack: I'm proficient in a wide range of technologies, including HTML5, CSS3, JavaScript, React, Node.js, Typescript, C#, ASP.NET MVC, ASP.NET Web API, SQL, and NoSQL databases. I believe in staying up-to-date with the latest industry trends and continuously expanding my skill set. 
 
