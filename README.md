@@ -6,7 +6,7 @@ Full Stack Developer
 
 💻 My Journey: I've been coding for over 15 years and have immersed myself in various technologies and frameworks to deliver exceptional user experiences. Whether it's crafting intuitive front-end interfaces or architecting scalable back-end systems, I thrive on turning ideas into reality. 
 
-🌐 Tech Stack: I'm proficient in a wide range of technologies, including HTML5, CSS3, JavaScript, React, Node.js, Typescript, C#, ASP.NET MVC, ASP.NET Web API, SQL, and NoSQL databases. I believe in staying up-to-date with the latest industry trends and continuously expanding my skill set. 
+🌐 Tech Stack: I'm proficient in a wide range of technologies, including HTML5, CSS3, JavaScript, React, Node.js, Typescript, C#, ASP.NET MVC, ASP.NET Web API, SQL, NoSQL databases, and games development using Unity 3D gaming engine. I believe in staying up-to-date with the latest industry trends and continuously expanding my skill set. 
 
 🔧 Problem Solver: I love tackling complex challenges and finding elegant solutions. I have experience in designing and implementing robust architectures, optimizing performance, and ensuring high-quality code through testing and code reviews. 
 
